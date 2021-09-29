@@ -1,6 +1,8 @@
 # IMDb_Movie_Assignment
 Contains the detailed exploratory data analysis of Top100 IMDb movies that I wrote as part of the Executive PG Diploma program from Upgrad in collaboration with IIIT Bangalore.
 
+<img src="https://jahme.com/wp-content/uploads/2019/06/BG_rectangle._CB1509060989_SY230_SX307_AL_1.png"></img> 
+
 # Problem Statement :
 The data for the 100 top-rated movies from the past decade was provided to us, along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. In this assignment, we tried to find some interesting insights into these movies and their voters, using Python.
 
