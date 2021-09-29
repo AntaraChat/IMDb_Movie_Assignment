@@ -15,5 +15,5 @@ The data for the 100 top-rated movies from the past decade was provided to us, a
 - The code is concise. Wherever appropriate, built-in functions are used instead of making the code longer (if-else statements, for loops,loc/iloc ).
 - If new variables are created, the names are descriptive and unambiguous. Following the variable/dataframe names mentioned in the question wherever it is provided.
 - Charts are neatly formatted including proper chart sizes, annotations(if required) and labelling.
-- Mention the inferences for each of the graphs after thouroughly inspecting them.
+- Mention the inferences for each of the graphs after thoroughly inspecting them.
 
